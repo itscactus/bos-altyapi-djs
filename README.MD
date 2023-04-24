@@ -23,7 +23,7 @@
 ### Modül kurulumu
 
 ```bash
-$ npm install discord.js@14.6.0 mongoose@latest fs@latest
+$ npm install discord.js@14.9.0 mongoose@latest fs@latest
 ```
 
 ### Başlatma
